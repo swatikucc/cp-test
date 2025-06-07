@@ -1,0 +1,23 @@
+{
+  "name": "cp-test",
+  "version": "1.0.0",
+  "description": "Read me 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swatikucc/cp-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swatikucc/cp-test/issues"
+  },
+  "homepage": "https://github.com/swatikucc/cp-test#readme",
+  "devDependencies": {
+    "cypress": "^14.4.1"
+  }
+}
